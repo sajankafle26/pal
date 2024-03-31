@@ -1,0 +1,17 @@
+footer 
+{
+    background: #525252;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+footer li 
+{
+    line-height: 1.7;
+}
+footer h4 
+{
+    border-bottom: 2px solid #fff;
+    padding-bottom: 20px;
+}
